@@ -1,0 +1,15 @@
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\bin\Debug\net7.0\Abstractions.deps.json
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\bin\Debug\net7.0\Abstractions.dll
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\bin\Debug\net7.0\Abstractions.pdb
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\bin\Debug\net7.0\Models.dll
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\bin\Debug\net7.0\Models.pdb
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.csproj.AssemblyReference.cache
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.AssemblyInfoInputs.cache
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.AssemblyInfo.cs
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.csproj.CopyComplete
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.dll
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\refint\Abstractions.dll
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\Abstractions.pdb
+C:\Users\NW\CSharpProjects\NovakWilson\src\Lab5\src\Application\Abstractions\obj\Debug\net7.0\ref\Abstractions.dll
